@@ -1,28 +1,21 @@
 
 Deployed portfolio to heroku.com.
-# https://dashboard.heroku.com/apps/portfolio-dawit #
-
+ # https://portfolio-dawit.herokuapp.com/ 
 
 # RWD Portfolio
 
 ## Overview
-
-For today's lab assignment, you will work independently to create a personal portfolio. You will begin with the provided starter code and modify the contents to complete your feature tasks. Take time to review the provided code base and understand its structure before adding features.
+For this lab assignment I'm creating a personal portfolio webpage. 
 
 ## Resources
-
-- [HTML5 UP templates](https://html5up.net/)
+- I am my own resource as I am listing my current situations and outlook in my near future. 
 
 ## Repository Set-up
+- I have created a new repository on GitHub named `portfolio`. 
 
-- Create a new repository on GitHub named `portfolio`. Clone it to your local file system.
-- From the command line, copy the contents of the `starter-code` folder from the course repository into the root of your `portfolio` repository. Play around with the `cp` command until you get it exactly right. Don't worry if you don't get it right the first time, just clear out the attempt, and try again.
-- Add and commit this initial state of the code base to your master branch.
-- From this point on, work on semantically-named non-master branches. Remember to add, commit, and push regularly.
 
-## User Acceptance Tests
-
-### Time Estimate
+## Time Estimate
+My estimated time to complete this assignment is around 3 hours. 
 
 
 
@@ -31,13 +24,13 @@ For each of the features listed below, make an estimate of the time it will take
 ```
 Number and name of feature: 
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time: 3pm 
 
-Finish time: _____
+Finish time: 5:10pm 
 
-Actual time needed to complete: _____
+Actual time needed to complete: 2hours 10 mins
 ```
 
 Add this information to your README.
